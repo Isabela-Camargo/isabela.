@@ -4,5 +4,29 @@ body{
 }
 .imagem1{
     width: 40%;
+    display: flex;
+    text-align: center;
+}
+.titulo{ 
+    font-size: 250%;
+}
+.titulo1{
+    display: flex;
+text-align: center;
+}
+
+.p1{ 
+    display: flex;
+    text-align: center ;
+    }
+    
+.total{
+justify-content: center;    
+}
+    
+.titulo2 {
+    font-size: 150%;
+    display: flex;
+    text-align: center;
 }
 
