@@ -6,6 +6,16 @@ body {
     background-color: var(--cor-de-fundo)
 }
 
-
-
-
+.slogan{
+    width: 10%;
+}
+.menu{
+    width: 10%;
+}
+.curtidas{
+    width: 10%;
+}
+.perfil{
+    width: 10%;
+}
+    
